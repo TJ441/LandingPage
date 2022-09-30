@@ -8,8 +8,7 @@ body {
 .hero {
     background: #1f2937;
     display: flex;
-    flex-direction: column; 
-    
+    flex-direction: column;   
 }
 
 .header-logo {
